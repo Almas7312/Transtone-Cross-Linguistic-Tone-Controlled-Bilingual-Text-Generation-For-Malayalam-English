@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+peft
+accelerate
+sentencepiece
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
